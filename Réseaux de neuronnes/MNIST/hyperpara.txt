@@ -1,0 +1,24 @@
+Hyperparamètres du gradient :
+batch size (peut être opti à part)
+learning rate
+epoch
+loss function
+momentum
+
+Model Hyperparamètres:
+number of layer
+number of neuron per layer
+Weight Decay
+activation sparsity
+nonlinearity
+weight init
+random seeds and model averaging
+preprocessing input data
+
+Hyperparamètres space exploration (methodes d'optis):
+Coordinate Descent
+grid search
+random seaerch
+model based methods
+
+http://colinraffel.com/wiki/neural_network_hyperparameters
